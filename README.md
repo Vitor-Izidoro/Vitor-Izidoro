@@ -43,4 +43,3 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 - [Projeto 1]([https://github.com/Vitor-Izidoro/projeto1](https://github.com/Alexandre-Tortoza/honeyGame))
 - [Projeto 2]([https://github.com/Vitor-Izidoro/projeto2](https://github.com/Brunobetiatto/ProjetoLixeiraInteligente))
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vitor-Izidoro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
