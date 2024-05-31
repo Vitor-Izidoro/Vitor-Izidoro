@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # Eu sou o Vitor Izidoro 
 
 ### Sobre mim
-Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento de software, cursando Ciencia da computação
+Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento de software. Atualmente cursando Ciência da Computação
 
 ### Linguagens e Ferramentas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
