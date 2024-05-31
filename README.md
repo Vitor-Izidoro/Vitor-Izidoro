@@ -40,5 +40,5 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 ![trophy](https://github-profile-trophy.vercel.app/?username=Vitor-Izidoro)
 
 ### Projetos Destacados:
-- [Projeto 1](https://github.com/Vitor-Izidoro/projeto1)
-- [Projeto 2](https://github.com/Vitor-Izidoro/projeto2)
+- [Projeto 1]([https://github.com/Vitor-Izidoro/projeto1](https://github.com/Alexandre-Tortoza/honeyGame))
+- [Projeto 2]([https://github.com/Vitor-Izidoro/projeto2](https://github.com/Brunobetiatto/ProjetoLixeiraInteligente))
