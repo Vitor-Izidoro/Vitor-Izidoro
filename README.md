@@ -42,3 +42,6 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 ### Projetos Destacados:
 - [Projeto 1]([https://github.com/Vitor-Izidoro/projeto1](https://github.com/Alexandre-Tortoza/honeyGame))
 - [Projeto 2]([https://github.com/Vitor-Izidoro/projeto2](https://github.com/Brunobetiatto/ProjetoLixeiraInteligente))
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vitor-Izidoro&theme=dark)](https://git.io/streak-stats)
