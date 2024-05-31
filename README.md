@@ -44,4 +44,3 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 - [Projeto 2]([https://github.com/Vitor-Izidoro/projeto2](https://github.com/Brunobetiatto/ProjetoLixeiraInteligente))
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vitor-Izidoro&theme=dark)](https://git.io/streak-stats)
