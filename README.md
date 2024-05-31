@@ -35,7 +35,6 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 
 ### Linguagens Mais Usadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Izidoro&layout=compact&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Izidoro&locale=pt-BR&langs_count=9&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Troféus do GitHub:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Vitor-Izidoro)
