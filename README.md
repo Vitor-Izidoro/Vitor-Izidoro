@@ -43,6 +43,7 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 - [Projeto 1]([https://github.com/Vitor-Izidoro/projeto1](https://github.com/Alexandre-Tortoza/honeyGame))
 - [Projeto 2]([[https://github.com/Vitor-Izidoro/projeto2](https://github.com/Vitor-Izidoro/ProjetoLixeiraInteligente)]
 
+![Snake animation](https://github.com/Vitor-Izidoro/snk/blob/output/github-contribution-grid-snake.svg)
 
 
 
