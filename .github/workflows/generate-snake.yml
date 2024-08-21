@@ -18,10 +18,14 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output: dist/github-snake.svg
 
-      - name: Commit and Push
+      - name: Commit and Push if Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Generate Snake"
-          git push origin main
+          if [[ `git status --porcelain` ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add dist/github-snake.svg
+            git commit -m "Generate Snake"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
