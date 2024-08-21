@@ -21,13 +21,15 @@ jobs:
           github_user_name: Vitor-Izidoro
           svg_out_path: dist/github-snake.svg
 
-      - name: Commit and Push if Changes
+            - name: Commit and Push if Changes
         run: |
-          if [[ `git status --porcelain` ]]; then
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if [ -n "$(git status --porcelain)" ]; then
             git add dist/github-snake.svg
             git commit -m "Generate Snake"
             git push origin main
           else
             echo "No changes to commit"
+          fi
+
