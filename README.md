@@ -46,3 +46,4 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 ![Snake animation](https://github.com/Vitor-Izidoro/Vitor-Izidoro/blob/output/github-snake.svg)
 
 
+
