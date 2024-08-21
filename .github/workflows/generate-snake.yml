@@ -4,10 +4,13 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -28,4 +31,4 @@ jobs:
             git push origin main
           else
             echo "No changes to commit"
-          fi
+            fi
