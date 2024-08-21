@@ -13,13 +13,13 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-snake.svg
+          github_user_name: Vitor-Izidoro
+          svg_out_path: dist/github-snake.svg
 
       - name: Commit and Push if Changes
         run: |
@@ -31,4 +31,3 @@ jobs:
             git push origin main
           else
             echo "No changes to commit"
-            fi
