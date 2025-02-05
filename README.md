@@ -42,5 +42,3 @@ Sou um entusiasta de tecnologia apaixonado por programação e desenvolvimento d
 
 ![Snake animation](https://github.com/Vitor-Izidoro/snk/blob/output/github-contribution-grid-snake.svg)
 
-
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
