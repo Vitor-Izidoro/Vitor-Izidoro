@@ -1,4 +1,4 @@
-<!-- HEADER --><!-- HEADER SUAVE -->
+<!-- HEADER SUAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f7fa,100:1a1a2e&height=140&section=header&text=Vitor%20Izidoro&fontColor=ffffff&fontSize=30"/>
 </p>
@@ -95,21 +95,4 @@ Interesse em sistemas adaptativos e aprendizado em tempo real.
 <!-- FOOTER SUAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e0f7fa&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Izidoro&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Atividade
-
-![Snake animation](https://github.com/Vitor-Izidoro/snk/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:1a1a2e&height=120&section=footer"/>
 </p>
