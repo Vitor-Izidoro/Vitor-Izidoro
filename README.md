@@ -119,7 +119,7 @@ Interesse em sistemas adaptativos e aprendizado em tempo real.
 ## E̷s̷t̷a̷t̷í̷s̷t̷i̷c̷a̷s̷
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Izidoro&theme=synthwave&hide_border=true"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=Vitor-Izidoro&theme=synthwave&hide_border=true&v=1"/>
 </p>
 
 <p align="center"><code>────────────── ✦ ──────────────</code></p>
