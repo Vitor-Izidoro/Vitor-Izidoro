@@ -61,7 +61,7 @@ Minha trajetória envolve:
 
 <!-- CÉU SUAVE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut5yE0/giphy.gif" width="100%"/>
+  <img src="./ceu.gif" width="100%"/>
 </p>
 
 <p align="center"><code>────────────── ✦ ───▓▓▓██▓▓────</code></p>
