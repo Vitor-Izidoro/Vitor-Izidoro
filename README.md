@@ -75,7 +75,7 @@ Minha trajetória envolve:
 
 <!-- ENGRENAGEM SUTIL -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsY8QyqY1t7s8Vq/giphy.gif" width="90"/>
+  <img src="./video.gif" width="90"/>
 </p>
 
 <p align="center"><code>█▓▒░█▓▒░ [DATA_STREAM_CORRUPTED] ░▒▓█░▒▓█</code></p>
